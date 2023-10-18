@@ -25,7 +25,7 @@ Install with npm
 2. **Navigate to the Project Directory:**
     ```bash
     cd digital-agency-website
-3. **Install Dependencies:**
+3. **Install Dependencies:** 
     ```bash
     npm install
 4. **Start the Development Server:**
