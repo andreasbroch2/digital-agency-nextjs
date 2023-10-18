@@ -1,6 +1,5 @@
 import { motion } from 'framer-motion';
 import Image from 'next/image';
-import NavigationDots from '../NavigationDots';
 import {techs} from './skillsList';
 
 export default function Skills() {

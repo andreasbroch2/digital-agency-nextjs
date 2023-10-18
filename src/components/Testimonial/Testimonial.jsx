@@ -1,6 +1,4 @@
 import { motion } from 'framer-motion';
-import NavigationDots from '../NavigationDots';
-
 export default function Testimonial() {
   return (
     <motion.div

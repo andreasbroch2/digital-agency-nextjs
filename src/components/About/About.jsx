@@ -1,7 +1,6 @@
 import { motion } from 'framer-motion';
 import styles from './About.module.scss';
 import Image from 'next/image';
-import NavigationDots from '../NavigationDots';
 import about01 from '../../assets/about01.png';
 import about02 from '../../assets/about02.png';
 import about03 from '../../assets/about03.png';
