@@ -3,7 +3,6 @@ import css from '../../assets/css.png';
 import email from '../../assets/email.png';
 import html from '../../assets/html.png';
 import javascript from '../../assets/javascript.png';
-import node from '../../assets/node.png';
 import react from '../../assets/react.png';
 import sass from '../../assets/sass.png';
 import tiktok from '../../assets/tiktok.png';
@@ -28,10 +27,6 @@ export const techs = [
     {
         name: "JavaScript",
         icon: javascript,
-    },
-    {
-        name: "Node.js",
-        icon: node,
     },
     {
         name: "React",

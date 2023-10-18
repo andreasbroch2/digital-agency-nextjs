@@ -31,7 +31,6 @@ export default function Skills() {
             </motion.div>
           </div>
         </div>
-        <NavigationDots active="about" />
       </div>
     </motion.div>
   );

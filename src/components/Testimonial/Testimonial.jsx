@@ -21,7 +21,6 @@ export default function Testimonial() {
               </div>
             </div>
         </div>
-        <NavigationDots active="about" />
       </div>
     </motion.div>
   );
